@@ -1,0 +1,1 @@
+function f(s){var l,o=s.Symbol;return typeof o=="function"?o.observable?l=o.observable:(l=o("observable"),o.observable=l):l="@@observable",l}var e;typeof self<"u"?e=self:typeof window<"u"?e=window:typeof global<"u"?e=global:typeof module<"u"?e=module:e=Function("return this")();var n=f(e);const b=n;export{b as $};

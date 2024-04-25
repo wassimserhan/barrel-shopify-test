@@ -1,0 +1,48 @@
+{
+  "current": {
+    "is_dev_mode": false,
+    "background_color": "",
+    "logo_enabled": true,
+    "use_mobile_logo": false,
+    "newsletter_prompt": "Sign up for our newsletter to be the first to know about new products, exclusive releases and promotions.",
+    "newsletter_success": "Thank you for signing up!",
+    "newsletter_error": "Whoops, something went wrong. If this issue persists, please <a href=\"\/pages\/contact\">contact us.<\/a>",
+    "mailchimp_enabled": false,
+    "mailchimp_url": "",
+    "promobar_enabled": false,
+    "promobar_content": "Sponsored by",
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "checkout_header_image": "",
+    "checkout_use_storefront_logo": false,
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
+    "checkout_error_color": "#ff6d6d",
+    "checkout_use_header_image": false,
+    "checkout_logo": "",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "sections": {
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "title": "",
+          "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}

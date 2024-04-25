@@ -1,0 +1,33 @@
+/**
+ * Root element
+ */
+.nav {
+  line-height: 1.1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.nav__inner {
+  height: var(--h-height);
+}
+
+.nav__brand {
+  width: 60px;
+  margin: 0;
+
+  @media (--xs) {
+    width: 73px;
+  }
+}
+
+.nav__logo {
+  text-transform: uppercase;
+  font-weight: var(--f-weight-bold);
+  font-size: var(--f-small);
+  border: 2px solid;
+  padding: 0.66em 1.61em;
+  letter-spacing: 1px;
+}

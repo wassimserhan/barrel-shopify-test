@@ -1,0 +1,1 @@
+import{c}from"./index.929bd43e.js";import"./index.4dec3c6a.js";import"./_commonjsHelpers.de833af9.js";import"./index.a394a8ae.js";const p=o=>{const t=document.getElementById("contactFormSuccess");c(o).on("success",m=>{t.style.display="block"})};export{p as default};

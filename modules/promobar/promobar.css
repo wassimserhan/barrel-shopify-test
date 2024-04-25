@@ -1,0 +1,18 @@
+.promobar {
+  padding-left: var(--h-padding-xs);
+  padding-right: var(--h-padding-xs);
+  font-size: 11px;
+  height: var(--h-promobar-height);
+  line-height: var(--h-promobar-height);
+
+  @media (--xs) {
+    font-size: var(--f-small);
+  }
+}
+
+.promobar__inner {
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
