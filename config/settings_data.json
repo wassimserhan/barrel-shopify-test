@@ -10,7 +10,7 @@
     "mailchimp_enabled": false,
     "mailchimp_url": "",
     "promobar_enabled": false,
-    "promobar_content": "Sponsored by",
+    "promobar_content": "Sponsored by test",
     "social_facebook_link": "",
     "social_twitter_link": "",
     "checkout_header_image": "",
